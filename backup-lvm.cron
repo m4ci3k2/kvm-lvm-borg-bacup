@@ -1,0 +1,1 @@
+1 48 * * * root /root/backup-lvm/lvm-backup.sh
